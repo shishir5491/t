@@ -1,0 +1,72 @@
+*{
+	margin: 0px;
+}
+
+body{
+	background: url(../images/q.jpg);
+	background-size: cover;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1{
+	background-color: cyan;
+	font-size: 50px;
+	margin-left: 300px;
+}
+.container{
+	width: 600px;
+	margin: 10% auto;
+	border: 1px solid black;
+}
+
+.forgot-password{
+	background-color: white;
+	padding: 20px;
+}
+
+.forgot-password h4{
+	margin-bottom: 15px;
+	font-size: 24px;
+}
+
+.forgot-password hr{
+	margin-bottom: 15px;
+}
+
+.forgot-password p{
+	font-size: 14px;
+	margin-bottom: 15px;
+	
+}
+
+.form-control{
+	width: 50%;
+	height: 30px;
+	border-radius: 3px;
+	border: 1px solid black;
+	margin-bottom:15px;
+
+}
+
+h5{
+	float:right;
+	font-size: 16px;
+}
+
+.continue{
+	padding: 8px 12px;
+	margin-left:300px;
+	background-color: cyan;
+	border: 1px solid white;
+
+}
+
+.cancel{
+	padding: 8px 12px;
+	border: 1px solid white;
+}
+
+a{
+	float: left;
+	text-decoration: none;
+}
